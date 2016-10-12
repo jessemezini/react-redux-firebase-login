@@ -1,6 +1,6 @@
 export const firebaseConfig = {
-  apiKey: "AIzaSyBVEvORXF58Umn3GFkLWVi3OtLYW4szDGQ",
-  authDomain: "react-redux-firebase-login.firebaseapp.com",
-  databaseURL: "https://react-redux-firebase-login.firebaseio.com",
-  storageBucket: "react-redux-firebase-login.appspot.com",
+  apiKey: 'your api key',
+  authDomain: 'your-project-id.firebaseapp.com',
+  databaseURL: 'https://your-project-id.firebaseio.com',
+  storageBucket: 'your-project-id.appspot.com'
 };
