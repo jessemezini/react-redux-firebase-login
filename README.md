@@ -11,10 +11,14 @@ This project was based on [Todo React Redux](https://github.com/r-park/todo-reac
 - Firebase
 - Redux-Thunk
 - Reselect
+- localStorage
+- Secure Routes
 
 ## Demo and config
 
 [Demo](https://react-redux-firebase-login.firebaseapp.com/)
+
+user@example.com 123456
 
 Install
 
